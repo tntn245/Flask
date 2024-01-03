@@ -5,6 +5,13 @@ Flask==2.2.2
 Flask-Login==0.6.2
 Flask-Minify==0.37
 Flask-SQLAlchemy==3.0.2
+flask_marshmallow==0.15.0
+flask_cors==4.0.0
+numpy==1.22.4
+opencv-python==4.8.1
+ultralytics==8.0.231
+PIL==10.1.0
+matplotlib==3.5.1
 greenlet==2.0.0
 gunicorn==20.0.4
 htmlmin==0.1.12
